@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/cadet_blue_wool",
+		"up": "utilitiesmod:block/cadet_blue_wool",
+		"north": "utilitiesmod:block/cadet_blue_wool",
+		"south": "utilitiesmod:block/cadet_blue_wool",
+		"east": "utilitiesmod:block/cadet_blue_wool",
+		"west": "utilitiesmod:block/cadet_blue_wool"
+	}
+}

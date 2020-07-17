@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/burly_wood_wool",
+		"up": "utilitiesmod:block/burly_wood_wool",
+		"north": "utilitiesmod:block/burly_wood_wool",
+		"south": "utilitiesmod:block/burly_wood_wool",
+		"east": "utilitiesmod:block/burly_wood_wool",
+		"west": "utilitiesmod:block/burly_wood_wool"
+	}
+}

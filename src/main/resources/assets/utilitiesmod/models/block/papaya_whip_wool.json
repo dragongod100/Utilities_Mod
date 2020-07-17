@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/papaya_whip_wool",
+		"up": "utilitiesmod:block/papaya_whip_wool",
+		"north": "utilitiesmod:block/papaya_whip_wool",
+		"south": "utilitiesmod:block/papaya_whip_wool",
+		"east": "utilitiesmod:block/papaya_whip_wool",
+		"west": "utilitiesmod:block/papaya_whip_wool"
+	}
+}

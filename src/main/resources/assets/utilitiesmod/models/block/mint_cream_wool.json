@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/mint_cream_wool",
+		"up": "utilitiesmod:block/mint_cream_wool",
+		"north": "utilitiesmod:block/mint_cream_wool",
+		"south": "utilitiesmod:block/mint_cream_wool",
+		"east": "utilitiesmod:block/mint_cream_wool",
+		"west": "utilitiesmod:block/mint_cream_wool"
+	}
+}

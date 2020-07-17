@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "utilitiesmod:item/midnight_blue_frog"
+	}
+}

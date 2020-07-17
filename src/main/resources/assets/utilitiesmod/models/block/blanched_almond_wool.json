@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/blanched_almond_wool",
+		"up": "utilitiesmod:block/blanched_almond_wool",
+		"north": "utilitiesmod:block/blanched_almond_wool",
+		"south": "utilitiesmod:block/blanched_almond_wool",
+		"east": "utilitiesmod:block/blanched_almond_wool",
+		"west": "utilitiesmod:block/blanched_almond_wool"
+	}
+}

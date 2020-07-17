@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/indian_red_wool",
+		"up": "utilitiesmod:block/indian_red_wool",
+		"north": "utilitiesmod:block/indian_red_wool",
+		"south": "utilitiesmod:block/indian_red_wool",
+		"east": "utilitiesmod:block/indian_red_wool",
+		"west": "utilitiesmod:block/indian_red_wool"
+	}
+}

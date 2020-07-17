@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/firebrick_wool",
+		"up": "utilitiesmod:block/firebrick_wool",
+		"north": "utilitiesmod:block/firebrick_wool",
+		"south": "utilitiesmod:block/firebrick_wool",
+		"east": "utilitiesmod:block/firebrick_wool",
+		"west": "utilitiesmod:block/firebrick_wool"
+	}
+}

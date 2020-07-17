@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "utilitiesmod:item/sea_green_frog"
+	}
+}

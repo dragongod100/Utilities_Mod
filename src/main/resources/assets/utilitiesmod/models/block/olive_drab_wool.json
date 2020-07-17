@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/olive_drab_wool",
+		"up": "utilitiesmod:block/olive_drab_wool",
+		"north": "utilitiesmod:block/olive_drab_wool",
+		"south": "utilitiesmod:block/olive_drab_wool",
+		"east": "utilitiesmod:block/olive_drab_wool",
+		"west": "utilitiesmod:block/olive_drab_wool"
+	}
+}

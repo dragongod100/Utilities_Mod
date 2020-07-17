@@ -1,0 +1,8 @@
+{
+	"parent": "item/handheld",
+	"textures": 
+	{
+		"layer0": "utilitiesmod:item/corn_flower_blue_boots"
+	}
+}
+

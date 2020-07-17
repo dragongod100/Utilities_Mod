@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/gainsboro_wool",
+		"up": "utilitiesmod:block/gainsboro_wool",
+		"north": "utilitiesmod:block/gainsboro_wool",
+		"south": "utilitiesmod:block/gainsboro_wool",
+		"east": "utilitiesmod:block/gainsboro_wool",
+		"west": "utilitiesmod:block/gainsboro_wool"
+	}
+}

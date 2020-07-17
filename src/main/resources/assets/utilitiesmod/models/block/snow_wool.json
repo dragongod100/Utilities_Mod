@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/snow_wool",
+		"up": "utilitiesmod:block/snow_wool",
+		"north": "utilitiesmod:block/snow_wool",
+		"south": "utilitiesmod:block/snow_wool",
+		"east": "utilitiesmod:block/snow_wool",
+		"west": "utilitiesmod:block/snow_wool"
+	}
+}

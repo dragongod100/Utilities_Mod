@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/tomato_wool",
+		"up": "utilitiesmod:block/tomato_wool",
+		"north": "utilitiesmod:block/tomato_wool",
+		"south": "utilitiesmod:block/tomato_wool",
+		"east": "utilitiesmod:block/tomato_wool",
+		"west": "utilitiesmod:block/tomato_wool"
+	}
+}

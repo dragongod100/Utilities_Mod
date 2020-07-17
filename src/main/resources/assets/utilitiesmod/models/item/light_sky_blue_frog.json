@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "utilitiesmod:item/light_sky_blue_frog"
+	}
+}

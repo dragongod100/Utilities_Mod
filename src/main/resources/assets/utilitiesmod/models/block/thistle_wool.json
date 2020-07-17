@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/thistle_wool",
+		"up": "utilitiesmod:block/thistle_wool",
+		"north": "utilitiesmod:block/thistle_wool",
+		"south": "utilitiesmod:block/thistle_wool",
+		"east": "utilitiesmod:block/thistle_wool",
+		"west": "utilitiesmod:block/thistle_wool"
+	}
+}

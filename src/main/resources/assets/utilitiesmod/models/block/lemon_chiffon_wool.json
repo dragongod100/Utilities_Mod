@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/lemon_chiffon_wool",
+		"up": "utilitiesmod:block/lemon_chiffon_wool",
+		"north": "utilitiesmod:block/lemon_chiffon_wool",
+		"south": "utilitiesmod:block/lemon_chiffon_wool",
+		"east": "utilitiesmod:block/lemon_chiffon_wool",
+		"west": "utilitiesmod:block/lemon_chiffon_wool"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/medium_aqua_marine_wool",
+		"up": "utilitiesmod:block/medium_aqua_marine_wool",
+		"north": "utilitiesmod:block/medium_aqua_marine_wool",
+		"south": "utilitiesmod:block/medium_aqua_marine_wool",
+		"east": "utilitiesmod:block/medium_aqua_marine_wool",
+		"west": "utilitiesmod:block/medium_aqua_marine_wool"
+	}
+}

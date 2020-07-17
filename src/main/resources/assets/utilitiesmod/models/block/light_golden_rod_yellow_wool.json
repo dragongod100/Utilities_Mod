@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/light_golden_rod_yellow_wool",
+		"up": "utilitiesmod:block/light_golden_rod_yellow_wool",
+		"north": "utilitiesmod:block/light_golden_rod_yellow_wool",
+		"south": "utilitiesmod:block/light_golden_rod_yellow_wool",
+		"east": "utilitiesmod:block/light_golden_rod_yellow_wool",
+		"west": "utilitiesmod:block/light_golden_rod_yellow_wool"
+	}
+}

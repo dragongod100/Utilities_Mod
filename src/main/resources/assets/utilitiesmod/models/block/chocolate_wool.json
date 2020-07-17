@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/chocolate_wool",
+		"up": "utilitiesmod:block/chocolate_wool",
+		"north": "utilitiesmod:block/chocolate_wool",
+		"south": "utilitiesmod:block/chocolate_wool",
+		"east": "utilitiesmod:block/chocolate_wool",
+		"west": "utilitiesmod:block/chocolate_wool"
+	}
+}

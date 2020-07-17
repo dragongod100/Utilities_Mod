@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/lavender_wool",
+		"up": "utilitiesmod:block/lavender_wool",
+		"north": "utilitiesmod:block/lavender_wool",
+		"south": "utilitiesmod:block/lavender_wool",
+		"east": "utilitiesmod:block/lavender_wool",
+		"west": "utilitiesmod:block/lavender_wool"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/pale_green_wool",
+		"up": "utilitiesmod:block/pale_green_wool",
+		"north": "utilitiesmod:block/pale_green_wool",
+		"south": "utilitiesmod:block/pale_green_wool",
+		"east": "utilitiesmod:block/pale_green_wool",
+		"west": "utilitiesmod:block/pale_green_wool"
+	}
+}

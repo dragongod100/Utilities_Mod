@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/navy_wool",
+		"up": "utilitiesmod:block/navy_wool",
+		"north": "utilitiesmod:block/navy_wool",
+		"south": "utilitiesmod:block/navy_wool",
+		"east": "utilitiesmod:block/navy_wool",
+		"west": "utilitiesmod:block/navy_wool"
+	}
+}

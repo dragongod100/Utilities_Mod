@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/misty_rose_wool",
+		"up": "utilitiesmod:block/misty_rose_wool",
+		"north": "utilitiesmod:block/misty_rose_wool",
+		"south": "utilitiesmod:block/misty_rose_wool",
+		"east": "utilitiesmod:block/misty_rose_wool",
+		"west": "utilitiesmod:block/misty_rose_wool"
+	}
+}

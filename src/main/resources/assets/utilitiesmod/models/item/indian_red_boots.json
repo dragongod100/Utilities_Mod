@@ -1,0 +1,8 @@
+{
+	"parent": "item/handheld",
+	"textures": 
+	{
+		"layer0": "utilitiesmod:item/indian_red_boots"
+	}
+}
+

@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "utilitiesmod:item/medium_aqua_marine_bread"
+    }
+}

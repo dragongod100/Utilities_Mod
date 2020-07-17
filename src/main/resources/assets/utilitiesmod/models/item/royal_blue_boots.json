@@ -1,0 +1,8 @@
+{
+	"parent": "item/handheld",
+	"textures": 
+	{
+		"layer0": "utilitiesmod:item/royal_blue_boots"
+	}
+}
+

@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/dodger_blue_wool",
+		"up": "utilitiesmod:block/dodger_blue_wool",
+		"north": "utilitiesmod:block/dodger_blue_wool",
+		"south": "utilitiesmod:block/dodger_blue_wool",
+		"east": "utilitiesmod:block/dodger_blue_wool",
+		"west": "utilitiesmod:block/dodger_blue_wool"
+	}
+}

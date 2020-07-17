@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+"textures": {
+		"down": "utilitiesmod:block/peach_puff_wool",
+		"up": "utilitiesmod:block/peach_puff_wool",
+		"north": "utilitiesmod:block/peach_puff_wool",
+		"south": "utilitiesmod:block/peach_puff_wool",
+		"east": "utilitiesmod:block/peach_puff_wool",
+		"west": "utilitiesmod:block/peach_puff_wool"
+	}
+}
